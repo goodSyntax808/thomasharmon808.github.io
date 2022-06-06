@@ -4,7 +4,7 @@ title = "About"
 
 ### Hey, I'm Thomas Harmon 👋
 
-I'm a full-stack software engineer currently located in Boston, MA.
+I'm a full-stack software engineer currently located in the Bay Area, California.
 
 My combined major in Computer Engineering and Computer Science has made me a 
 jack-of-all trades and a master at quickly learning new skills. My specialties 
